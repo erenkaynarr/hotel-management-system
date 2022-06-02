@@ -1,0 +1,18 @@
+-------<MERHABA! Bu program, İstanbul Gelişim Üniversitesi Öğrencileri Enis ÖZBEK ve Eren KAYNAR tarafından
+        			   bilgisayar programlama (BIL 106) dersinin son projesi için kodlanmıştır.
+
+-------<KONU: Otel Yönetim Sistemi
+
+-------<C(kodlama dili)ile kodlanmıştır.
+
+-------<OTURUM AÇMA BİLGİLERİ:
+	KULLANICI ADI: hotel
+	ŞİFRE: 123
+
+-------<ÖĞRENCİ BİLGİLERİ:
+	AD           : Enis -------------------------------- Eren
+	SOYAD        : ÖZBEK ------------------------------- KAYNAR
+	OKUL NUMARASI: 200403639 --------------------------- 200403641
+	FAKÜLTE      : Mimarlık ve Mühendislik Fakültesi --- Mimarlık ve Mühendislik Fakültesi
+	BÖLÜM        : Bilgisayar Mühendisliği ------------- Bilgisayar Mühendisliği
+	

@@ -1,0 +1,17 @@
+-------<HELLO! This program was coded by Istanbul Gelişim University Students Enis ÖZBEK and Eren KAYNAR
+					 as a final project of the computer programming(BIL 106) course.
+
+-------<SUBJECT: Hotel Management System
+
+-------<Coded in C(programming language)
+
+-------<LOGIN CREDENTIALS:
+	USERNAME: hotel
+	PASSWORD: 123
+
+-------<STUDENT INFORMATION:	
+	NAME         : Enis -------------------------------------- Eren
+	SURNAME      : ÖZBEK ------------------------------------- KAYNAR
+	SCHOOL NUMBER: 200403639 --------------------------------- 200403641
+	FACULTY      : Faculty OF Engineering and Architecture --- Faculty OF Engineering and Architecture
+	DEPARTMENT   : Computer Engineering ---------------------- Computer Engineering
